@@ -1,3 +1,2 @@
-Name: Rahul
-SID: 20105015
->>>>>>> rahul
+Name: <your-name>
+SID: <your-sid>
